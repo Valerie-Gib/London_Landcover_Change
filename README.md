@@ -1,4 +1,4 @@
-# London_Landcover_Change
+
 
 # London, Kentucky Landcover Change
 
